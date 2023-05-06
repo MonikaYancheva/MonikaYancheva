@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MonikaYancheva
 - 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning JavaScript,PHP
+- 🌱 I’m currently learning JavaScript,React,TypeScript,PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : monika.milcheva.yancheva@gmail.com
 
